@@ -77,11 +77,7 @@ if config_dict["GDRIVE_ID"]:
 
 <blockquote expandable>/{BotCommands.MirrorCommand[0]} - Start mirroring to Google Drive.
 /{BotCommands.LeechCommand[0]} - Start leeching to Telegram.
-/{BotCommands.YtdlCommand[0]} - Mirror links supported by yt-dlp.
 /{BotCommands.YtdlLeechCommand[0]} - Leech links supported by yt-dlp.
-/{BotCommands.CloneCommand[0]} - Copy files/folders to Google Drive.
-/{BotCommands.CountCommand} - Count files/folders in Google Drive.
-/{BotCommands.ListCommand} - Search in Google Drive(s).
 /{BotCommands.UserSetCommand} - Open the settings panel.
 /{BotCommands.MediaInfoCommand} - View MediaInfo from a file or link.
 /{BotCommands.StopAllCommand[0]} - Cancel all active tasks.
